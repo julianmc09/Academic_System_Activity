@@ -8,6 +8,9 @@ public class AcademicSystemActivityApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AcademicSystemActivityApplication.class, args);
+
+        System.out.println("Hello");
 	}
+
 
 }
